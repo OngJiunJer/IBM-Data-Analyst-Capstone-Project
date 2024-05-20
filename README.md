@@ -25,3 +25,21 @@ After cleaning the dataset, your next step is the analysis. In this stage you wi
   - Create a histogram to show the distribution of data.
   - Create different plots such as a scatter, bubble or boxplot.
   - Create a pie chart, bar chart, and stacked chart to show medians and counts.
+
+## Step 6: Creating Dashboard Via PowerBI
+In this assignment will create a dashboard. In this dashboard you will create the following:
+  - A Current Technology Usage tab containing:
+      1) Top 10 Languages
+      2) Top 10 Databases
+      3) Top 10 Platforms
+      4) Top 10 WebFrames
+  - A Future Technology Trends tab containing:
+      1) Top 10 Languages desired for the next year
+      2) Top 10 Databases desired for the next year
+      3) Desired platform for the next year
+      4) Top 10 WebFrames desired for the next year
+  - A Demographics tab containing:
+      1) Respondent classified by gender
+      2) Respondent count for countries
+      3) Respondent count by age
+      4) Respondent count by gender and classified by education level
